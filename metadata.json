@@ -1,0 +1,6 @@
+{
+  "name": "AuditGemini Pro",
+  "description": "智能专项维修资金审计平台 - 结合结构化逻辑判断与大语言模型，提供政策合规性审计、报告生成与历史追溯功能。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["AI Audit", "Policy Analysis", "Document Extraction"]
+}
